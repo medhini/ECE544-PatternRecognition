@@ -1,0 +1,12 @@
+train_00000.png	-1
+train_00001.png	-1
+train_00003.png	1
+train_00004.png	-1
+train_00005.png	-1
+train_00006.png	1
+train_00007.png	1
+train_00008.png	-1
+train_00009.png	-1
+train_00010.png	-1
+train_00011.png	1
+train_00012.png	-1
